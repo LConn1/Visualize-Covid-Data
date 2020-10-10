@@ -1,6 +1,5 @@
 /*
   Leland Conn
-  CS 3307 Individual Assignment
   File to provide the implementation of Country class
   Country class will be used to store records of the lines
   in the csv file for each country
