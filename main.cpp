@@ -1,6 +1,5 @@
 /*
   Leland Conn
-  CS 3307 Individual Assignment
   Main file to use user input to create a graph to visualize covid data
   October 7, 2020
 */
